@@ -1,0 +1,29 @@
+[
+  {
+    "image": "img/gallery/2e719431c2474c91ac3cf0e9f2ad04fc.avif",
+    "heading": "To Explore <br/> Burgers ..",
+    "href":"burgerMenu.html"
+  },
+
+  {
+    "image": "img/gallery/image 12.png",
+    "heading": "To Explore <br/> Submarines .."
+  },
+
+  {
+    "image": "img/gallery/image 13.png",
+    "heading": "To Explore <br/> Fries .."
+  },
+  {
+    "image": "img/gallery/image 14.png",
+    "heading": "To Explore <br/> Pasta .."
+  },
+  {
+    "image": "img/gallery/image 15.png",
+    "heading": "To Explore <br/> Chicken .."
+  },
+  {
+    "image": "img/gallery/image 16.png",
+    "heading": "To Explore <br/> Beverages .."
+  }
+]
