@@ -1,0 +1,86 @@
+[
+  {
+    "colorCode": "#E4C4E2",
+    "imageSource": "/img/BurgersMenu/image 19.png",
+    "burgerType": "<br>Classic Burger <br>(Large)<br><br>",
+    "price": "LKR 750"
+  },
+  {
+    "burgerType": "Classic Burger <br>(Regular)<br><br>",
+    "price": "LKR 1500",
+    "colorCode": "#46dcff",
+    "imageSource": "/img/BurgersMenu/image_18.png"
+  },
+  {
+    "burgerType": "Turkey Burger<br><br><br>",
+    "price": "LKR 1600",
+    "colorCode": "#ffe48d",
+    "imageSource": "img/BurgersMenu/image 20.png"
+  },
+  {
+    "burgerType": "Chicken Burger <br>(Large)<br><br>",
+    "price": "LKR 800",
+    "colorCode": "#fed4d6",
+    "imageSource": "/img/BurgersMenu/image 21.png"
+  },
+  {
+    "burgerType": "Chicken Burger <br>(Regular)<br><br>",
+    "price": "LKR 800",
+    "colorCode": "#8F87F1",
+    "imageSource": "/img/BurgersMenu/image 22.png"
+  },
+  {
+    "burgerType": "Cheese Burger <br>(Large)<br><br>",
+    "price": "LKR 1000",
+    "colorCode": "#FDB7EA",
+    "imageSource": "/img/BurgersMenu/image 23.png"
+  },
+  {
+    "burgerType": "Cheese Burger <br>(Regular)<br><br>",
+    "price": "LKR 800",
+    "colorCode": "#fed4d6",
+    "imageSource": "/img/BurgersMenu/image 24.png"
+  },
+  {
+    "burgerType": "Chicken Burger <br>(Large)<br><br>",
+    "price": "LKR 650",
+    "colorCode": "#D0DDD0",
+    "imageSource": "/img/BurgersMenu/image 25.png"
+  },
+  {
+    "burgerType": "Shawarma Burger <br><br><br>",
+    "price": "LKR 800",
+    "colorCode": "#FCFFC1",
+    "imageSource": "/img/BurgersMenu/image 26.png"
+  },
+  {
+    "burgerType": "Olive Burger <br><br><br>",
+    "price": "LKR 1800",
+    "colorCode": "#A1EEBD",
+    "imageSource": "/img/BurgersMenu/image 27.png"
+  },
+  {
+    "burgerType": "Double-cheese Burger <br><br><br>",
+    "price": "LKR 1250",
+    "colorCode": "#00FF9C",
+    "imageSource": "/img/BurgersMenu/image 28.png"
+  },
+  {
+    "burgerType": "Crispy-Chicken Burger <br>(Regular)<br><br>",
+    "price": "LKR 1200",
+    "colorCode": "#E78F81",
+    "imageSource": "/img/BurgersMenu/image 29.png"
+  },
+  {
+    "burgerType": "Crispy-Chicken Burger <br>(Large)<br><br>",
+    "price": "LKR 1600",
+    "colorCode": "#B7B1F2",
+    "imageSource": "/img/BurgersMenu/image 30.png"
+  },
+  {
+    "burgerType": "Paneer Burger <br>(Large)<br><br>",
+    "price": "LKR 900",
+    "colorCode": "#BE5985",
+    "imageSource": "/img/BurgersMenu/image 31.png"
+  }
+]
